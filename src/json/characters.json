@@ -75,8 +75,10 @@
 	"46":	{ "ReservedBy": "beesouls🆖#3712" },		// Kitsunami 
 
 	"52":   { "ReservedBy": "Chopp#6467" },			// Aurora the Porcupine
+        "54":.  {"ReservedBy":. "Eserreddit" },	                //kuro the cat
+ }
 
-	"55":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Noelle
+	"55.":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Noelle
 	"56":	{ "ReservedBy":	"SAMPL#1873" },			// Cuphead
 	"57":	{ "ReservedBy": "Benkoopa#4456" },		// Cooper
 	
@@ -87,7 +89,7 @@
 	"75":	{ "ReservedBy":	"Just Chris#0720" },		// Extra Life
 	
 	"77":	{ "ReservedBy":	"Parliament#8647" },		// TBD
-	
+	"81":.  { "ReservedBy": "Eserreddit"}.                  //S1style mimi
 	"82":	{ "ReservedBy": "skidwithag#4249" },		// Shift
 	"83":	{ "ReservedBy": "skidwithag#4249" },		// Gear
 	
@@ -107,7 +109,7 @@
 	"125":  { "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
   
 	"232":	{ "ReservedBy":	"SonicFan#4324" }, 	        // Yang
-
+        "235":. { "ReservedBy": "Eserreddit".   },.             //Spinel the gem
         "240":  { "ReservedBy": "Shaded#0834" },                 // Quote
 
         "241":  { "ReservedBy": "Shaded#0834" },                 // Curly
